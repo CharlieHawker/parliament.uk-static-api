@@ -1,6 +1,7 @@
 <https://id.parliament.uk/collec11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/Collection> .
 <https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionName> "Questions" .
 <https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionDescription> "You can ask a Minister an oral question in person or a written question. Questions are submitted via the Table Office." .
+<https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionExtendedDescription> "__This__ is an extended description" .
 <https://id.parliament.uk/collec11> <http://example.com/content/schema/collectionHasArticle> <https://id.parliament.uk/article1> .
 <https://id.parliament.uk/article1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://id.parliament.uk/schema/WebArticle> .
 <https://id.parliament.uk/article1> <http://example.com/content/schema/title> "Deadlines for questions" .
